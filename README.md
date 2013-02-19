@@ -14,6 +14,8 @@ Preview:
 
 ![Alt text](justbrowsing-lockscreen.png "Lockscreen")
 
+![Alt text](justbrowsing-cdrom.png "CD-ROM")
+
 --------------------
 - Browser logos from: https://github.com/paulirish/browser-logos.git
 - Mozilla Firefox copyright: https://www.mozilla.org
