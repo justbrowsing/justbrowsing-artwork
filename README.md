@@ -5,9 +5,13 @@ Wallpapers, icons and other artwork for JustBrowsing
 
 --------------------
 Preview:
+
 ![Alt text](justbrowsing-text.png "Text logo")
-![Alt text](logo/firechrome64.png "Circle logo")
+
+![Alt text](logo/firechrome4_64.png "Circle logo")
+
 ![Alt text](justbrowsing-banner.png "Banner")
+
 ![Alt text](justbrowsing-lockscreen.png "Lockscreen")
 
 --------------------
